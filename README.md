@@ -11,7 +11,7 @@
 
 - 👦 Seorang Mahasiswa disebuah **Universitas Islam Kalimantan**
 
-- 🧑‍💻saya seorang mahasiswa semester 3 fakultas **teknologi informasi prodi teknik informatika**
+- 🧑‍💻 Mahasiswa semester 3 fakultas **teknologi informasi prodi teknik informatika**
 
 - 🧠 saya sedang mendalami menjadi seorang **Web Developer**
 
