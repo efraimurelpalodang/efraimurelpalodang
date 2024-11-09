@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🙎‍♂️ I come from **Indonesian**
+- 📍 I come from **Indonesian**
+
+- 🙌 Hallo, panggil saja saya **Urel**
 
 - 🙎‍♂️ Saya Seorang Mahasiswa disebuah **Universitas Islam Kalimantan**
 
