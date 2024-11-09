@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Efraim+Urel+palodang!;" />
 </h1>
 
-<h2 align="center">Selamat datang Github saya👋</h2>
+<h2 align="center">Selamat datang di Github saya👋</h2>
 <img align="right" alt="coding" width="500" src="img/image.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efraimurelpalodang&label=Profile%20views&color=0e75b6&style=flat" alt="efraimurelpalodang" /> </p>
