@@ -11,7 +11,7 @@
 
 - 📍 I come from **Indonesian**
 
-- 🙌 Hallo, panggil saja saya **Urel**
+- 🙌 Hallo, you can call me **Urel**
 
 - 🙎‍♂️ Saya Seorang Mahasiswa disebuah **Universitas Islam Kalimantan**
 
