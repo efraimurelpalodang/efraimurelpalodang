@@ -3,7 +3,6 @@
 </h1>
 
 <h3 align="center">Welcome To My GitHub👋</h3>
-<img align="right" alt="coding" width="500" src="img/image.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efraimurelpalodang&label=Profile%20views&color=0e75b6&style=flat" alt="efraimurelpalodang" /> </p>
 
