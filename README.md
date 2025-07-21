@@ -29,7 +29,7 @@
 
 ## 🖼️ My 3D GitHub Contributions
 
-![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+![3D Contributions](https://raw.githubusercontent.com/efraimurelpalodang/efraimurelpalodang/main/profile-3d-contrib/profile-night-green.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efraimurelpalodang&show_icons=true&locale=en&layout=compact&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p>
 
