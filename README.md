@@ -23,8 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello there! I'm Efraim urel palodang, a web developer passionate about modern frontend development.  
-Currently exploring more about React, Tailwind, and PHP frameworks.  
+Hello there! I'm Efraim urel palodang, a web developer passionate about modern web development. 
 
 
 ## 🛠️ Expertise
