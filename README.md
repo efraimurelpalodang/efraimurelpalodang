@@ -4,11 +4,11 @@
 
 <h3 align="center">Welcome To My GitHub👋</h3>
 <p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
+  <a href="#">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 
-<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
