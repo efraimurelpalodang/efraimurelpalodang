@@ -20,14 +20,12 @@
   Web Developer | Always Learning
 </p>
 
----
 
 ## 🧑‍💻 About Me
 
 Hello there! I'm Efraim urel palodang, a web developer passionate about modern frontend development.  
 Currently exploring more about React, Tailwind, and PHP frameworks.  
 
----
 
 ## 🛠️ Expertise
 
@@ -37,7 +35,6 @@ Currently exploring more about React, Tailwind, and PHP frameworks.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
 
 ### 🔸 Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -48,12 +45,10 @@ Currently exploring more about React, Tailwind, and PHP frameworks.
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ### 🗄️ Tools & Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 
 <!-- ![3D Contributions](https://raw.githubusercontent.com/efraimurelpalodang/efraimurelpalodang/main/profile-3d-contrib/profile-night-green.svg) -->
