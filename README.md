@@ -56,6 +56,10 @@ Hello there! I'm Efraim urel palodang, a web developer passionate about modern w
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efraimurelpalodang&show_icons=true&locale=en&layout=compact&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efraimurelpalodang&show_icons=true&locale=en&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p>
+## 🌟 Stats
+
+[![efraimurelpalodang](https://github-readme-stats.vercel.app/api/wakatime/?username=efraimurelpalodang&layout=compact&theme=radical&bg_color=161b22&hide_border=true)](https://wakatime.com/@59a3cb47-dfe8-47ba-b08f-0634435b8339)
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efraimurelpalodang&show_icons=true&locale=en&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efraimurelpalodang&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p>
