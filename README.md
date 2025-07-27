@@ -63,7 +63,5 @@ Hello there! I'm Efraim urel palodang, a web developer passionate about modern w
 
 ## 🌟 WakaTime Stats
 
-## ⌛ My WakaTime Coding Stats
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=efraimurelpalodang&layout=compact&hide_progress=true&custom_title=Weekly%20WakaTime%20Stats&theme=tokyonight)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=efraimurelpalodang&layout=compact&theme=radical=true&custom_title=Weekly%20WakaTime%20Stats&theme=tokyonight)
 
