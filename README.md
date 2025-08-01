@@ -55,10 +55,10 @@ Hello there! I'm Efraim urel palodang, a web developer passionate about modern w
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efraimurelpalodang&show_icons=true&locale=en&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efraimurelpalodang&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efraimurelpalodang&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p> -->
 
-## 🌟 WakaTime Stats
+<!-- ## 🌟 WakaTime Stats -->
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=efraimurelpalodang&layout=compact&hide_progress=true&custom_title=Weekly%20WakaTime%20Stats&theme=radical&v=1)
+![🌟 WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=efraimurelpalodang&layout=compact&hide_progress=true&custom_title=Weekly%20WakaTime%20Stats&theme=radical&v=1)
 
 
