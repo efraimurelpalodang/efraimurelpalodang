@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Efraim+Urel+palodang!;+Web+Developer;+Always+Learning;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Efraim+Urel+palodang!;+Web+Developer;" />
 </h1>
 
 <!-- <h3 align="center">Welcome To My GitHub👋</h3>
@@ -15,11 +15,6 @@
 <p align="left">
 <a href="https://instagram.com/efraimurel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efraimurel1" height="30" width="40" /></a>
 </p>
-
-<!-- <p align="center">
-  Web Developer | Always Learning
-</p> -->
-
 
 ## 🧑‍💻 About Me
 
