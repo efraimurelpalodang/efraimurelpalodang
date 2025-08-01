@@ -2,12 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Efraim+Urel+palodang!;+Web+Developer;" />
 </h1>
 
-<!-- <h3 align="center">Welcome To My GitHub👋</h3>
-<p align="center">
-  <a href="#">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p> -->
-
 <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
@@ -48,14 +42,6 @@ Hello there! I'm Efraim urel palodang, a web developer passionate about modern w
 
 
 <!-- ![3D Contributions](https://raw.githubusercontent.com/efraimurelpalodang/efraimurelpalodang/main/profile-3d-contrib/profile-night-green.svg) -->
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efraimurelpalodang&show_icons=true&locale=en&layout=compact&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p>
-
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efraimurelpalodang&show_icons=true&locale=en&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efraimurelpalodang&theme=dark&text_color=00BFFF" alt="efraimurelpalodang" /></p> -->
 
 <!-- ## 🌟 WakaTime Stats -->
 
