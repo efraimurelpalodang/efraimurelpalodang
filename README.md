@@ -43,8 +43,8 @@ Hello there! I'm Efraim urel palodang, a web developer passionate about modern w
 
 <!-- ![3D Contributions](https://raw.githubusercontent.com/efraimurelpalodang/efraimurelpalodang/main/profile-3d-contrib/profile-night-green.svg) -->
 
-<!-- ## 🌟 WakaTime Stats -->
+## 🌟 WakaTime Stats
 
-![🌟 WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=efraimurelpalodang&layout=compact&hide_progress=true&custom_title=Weekly%20WakaTime%20Stats&theme=radical&v=1)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=efraimurelpalodang&layout=compact&hide_progress=true&custom_title=Weekly%20WakaTime%20Stats&theme=radical&v=1)
 
 
